@@ -1,1 +1,10 @@
- created basic ERC20 token
+ created basic ERC20 toke
+
+---Simple hardhat configuration
+    added hardhat.config.js file : config enitre 
+hardhat project.	
+    added the localost port to hardhat.config.gson
+g   running hardhat compilation for the contract  (to bytecode into ABI)
+   " npx hardhat compile"
+
+  we need of an script file that takes file from our computer and then put them into the blockchain : i.e =>  migration.js
